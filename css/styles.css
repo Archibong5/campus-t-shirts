@@ -1,0 +1,175 @@
+h1{
+  font-family: 'Kurale', serif;
+  color: #FFF;
+  font-size: 3rem;
+  font-weight: bold;
+  line-height: 1.5;
+}
+
+h2{
+  font-family: 'Ramaraja', serif;
+
+}
+h3{
+  font-family: 'Copse', serif;
+  font-weight: bold;
+
+}
+body{
+  font-family: 'Niramit', sans-serif;
+  margin: 0;
+
+}
+/* NAVIGATION BAR */
+.navbar{
+  background-color: #d63384;
+  padding: 4% 7%;
+
+}
+.navbar-brand{
+  font-size: 2rem;
+}
+.nav-link{
+  margin: 0 30px;
+  font-size: 20px;
+}
+.nav-link:hover{
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+/* TITLE */
+.title-image{
+  width: 80%;
+}
+.title-text{
+  padding: 1.5rem 3.5rem;
+
+}
+.title-download{
+  margin: 2%;
+  position: relative;
+  left: 50px;
+  font-family: 'Ramaraja', serif;
+  font-size: 30px;
+}
+.title-column{
+  padding-left: 3%;
+}
+#title{
+  background-color: #d63384;
+  padding: 2rem;
+}
+/* FEATURE */
+#features{
+  text-align: center;
+  padding: 5%;
+}
+.icon{
+  color: #d63384;
+  padding: 3% 3%;
+}
+.icon:hover{
+  color: orange;
+}
+/* TESTIMONIAL */
+.testimonial-image{
+  width: 10%;
+  border-radius: 50%;
+  padding: 3% 0;
+
+}
+.testimonial-text{
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #FFF;
+  line-height: 2;
+}
+.testimonial-name{
+  font-size: 2rem;
+  font-weight: bold;
+  color: #FFF;
+}
+#testimonial{
+  text-align: center;
+  background-color: #d63384;
+  padding-top: 34px;
+
+}
+/* PRESS */
+#press{
+  text-align: center;
+  background-color:#d63384;
+  padding: 3% 3%;
+}
+.press-logo{
+  width: 40%;
+  margin: 0 auto;
+}
+
+/* PRICING */
+#pricing{
+  padding: 100px;
+  background-color: white;
+}
+.p-text{
+  font-weight: 600;
+}
+.price-text{
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #FFF;
+}
+.pricing-column{
+  padding: 3% 2%;
+}
+.pricing-month{
+  color: #FFF;
+}
+.card{
+  background-color: #d63384;
+}
+.pricing-header{
+  font-size: 4rem;
+}
+.sign-up-now{
+  font-weight: bold;
+  font-family: 'Ramaraja', serif;
+  font-size: 20px;
+}
+
+/* FOOTER */
+#footer{
+  background-color: white;
+}
+.footer-contact{
+  margin: 40px;
+}
+/* CTA */
+#cta{
+  padding: 100px;
+  position: relative;
+}
+.cta-text{
+  font-size: 100px;
+  color: #FFF;
+}
+.cta-button{
+  margin: 10px;
+  font-family: 'Ramaraja', serif;
+  font-size: 40px;
+}
+
+
+
+/* FOOTER */
+#footer{
+  padding: 100px;
+  margin: 0;
+}
+.copyright{
+  font-weight: bold;
+  color: grey;
+}
